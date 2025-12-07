@@ -1,9 +1,9 @@
-# 💫 About Me:
-Hi👋 I'm an engineering student passionate about competitive programming, problem-solving, and exploring the depths of computer science. <br>I love tackling challenging algorithmic problems and continuously improving my skills through contests and practice.
+# About Me:
+I'm an engineering student passionate about competitive programming, problem-solving, and exploring the depths of computer science. <br>I love tackling challenging algorithmic problems and continuously improving my skills through contests and practice.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habib-el-fekih/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habib.elfekih2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habib-el-fekih/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habib.elfekih2004@gmail.com) [Static Badge](https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white&logoSize=auto&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FHbayeb)
 
 
 # 💻 Tech Stack:
