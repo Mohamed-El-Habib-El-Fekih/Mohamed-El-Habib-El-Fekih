@@ -3,7 +3,7 @@ Hi👋 I'm an engineering student passionate about competitive programming, prob
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habib-el-fekih/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habib.elfekih2004@gmail.com) [![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/hbayeb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habib-el-fekih/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habib.elfekih2004@gmail.com) 
 
 
 # 💻 Tech Stack:
