@@ -1,4 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hi! I'm an engineering student passionate about competitive programming, problem-solving, and exploring the depths of computer science. I love tackling challenging algorithmic problems and continuously improving my skills through contests and practice.
+
+🔐 I’ve also participated in several Capture The Flag (CTF) competitions, where I enjoy diving into cybersecurity puzzles and learning new techniques along the way.
+
+🚀 Always curious, always learning — and always building something new.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
